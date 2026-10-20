@@ -1,0 +1,452 @@
+1
+00:00:00,400 --> 00:00:05,800
+Hi! Today we're mastering quadratic functions, one of the most important topics in high school math.
+
+2
+00:00:06,150 --> 00:00:11,678
+By the end, you'll be able to find the shape, vertex, intercepts and roots of any quadratic,
+
+3
+00:00:11,678 --> 00:00:13,421
+and sketch its graph by hand.
+
+4
+00:00:13,771 --> 00:00:20,668
+A quadratic function is any function you can write as y equals a x squared, plus b x, plus c,
+
+5
+00:00:20,668 --> 00:00:24,228
+where a, b and c are numbers, and a is not zero.
+
+6
+00:00:24,578 --> 00:00:29,616
+Why not zero? Because then the x squared term disappears, and you'd just have a straight line.
+
+7
+00:00:29,966 --> 00:00:34,088
+The graph of a quadratic is a smooth U-shaped curve called a parabola.
+
+8
+00:00:34,088 --> 00:00:37,916
+Let's build the simplest one, y equals x squared, point by point.
+
+9
+00:00:38,266 --> 00:00:45,611
+When x is negative 2, y is 4. Negative 1 gives 1. Zero gives 0. Then 1 gives 1, and 2 gives 4.
+
+10
+00:00:45,611 --> 00:00:48,815
+Plot them, and connect the dots smoothly.
+
+11
+00:00:50,915 --> 00:00:56,556
+First, let's see what the number a does. Here's y equals a x squared, and I'll slowly change a.
+
+12
+00:00:56,906 --> 00:01:00,986
+Make a bigger, like 3, and the parabola gets narrower and steeper.
+
+13
+00:01:01,336 --> 00:01:06,002
+Make a a small positive fraction, like one third, and it gets wider and flatter.
+
+14
+00:01:06,352 --> 00:01:10,418
+Now the big one. Make a negative, and the whole parabola flips upside down.
+
+15
+00:01:10,768 --> 00:01:15,469
+So the sign of a decides the direction, and its size decides how wide the curve is.
+
+16
+00:01:15,819 --> 00:01:20,676
+When a is positive, it opens up, and the vertex is the lowest point, the minimum.
+
+17
+00:01:20,676 --> 00:01:25,711
+When a is negative, it opens down, and the vertex is the highest point, the maximum.
+
+18
+00:01:27,611 --> 00:01:33,741
+Next, the vertex form: y equals a, times x minus h, squared, plus k.
+
+19
+00:01:34,091 --> 00:01:38,151
+Here the numbers h and k tell us exactly where the vertex is.
+
+20
+00:01:38,151 --> 00:01:41,545
+Let's start with a equals 1, and h and k both zero.
+
+21
+00:01:41,895 --> 00:01:43,332
+Now put h equal to 2.
+
+22
+00:01:43,332 --> 00:01:49,697
+The graph is y equals x minus 2, squared, and the whole parabola slides 2 units to the right.
+
+23
+00:01:50,047 --> 00:01:54,905
+Careful with the sign! x minus 2 moves right, while x plus 2 moves left.
+
+24
+00:01:55,255 --> 00:02:00,831
+Now set h back to 0 and change k. Adding 3 lifts the whole graph up 3 units.
+
+25
+00:02:01,181 --> 00:02:03,573
+And k equals negative 2 pushes it down.
+
+26
+00:02:03,923 --> 00:02:09,249
+So the vertex is the point h comma k, and the axis of symmetry, the mirror line,
+
+27
+00:02:09,249 --> 00:02:11,380
+is the vertical line x equals h.
+
+28
+00:02:13,280 --> 00:02:16,905
+In practice, quadratics usually come in standard form.
+
+29
+00:02:16,905 --> 00:02:22,543
+To find the vertex, we complete the square. Take y equals x squared plus 6 x plus 5.
+
+30
+00:02:22,893 --> 00:02:25,571
+Half of the 6 is 3, and 3 squared is 9.
+
+31
+00:02:25,571 --> 00:02:31,271
+So we add 9 to make a perfect square, and subtract 9 right away so nothing changes.
+
+32
+00:02:31,621 --> 00:02:37,231
+The bracket becomes x plus 3, squared, and negative 9 plus 5 is negative 4.
+
+33
+00:02:37,581 --> 00:02:42,979
+That's vertex form, with h equal to negative 3, and k equal to negative 4.
+
+34
+00:02:42,979 --> 00:02:45,897
+The vertex is at negative 3, negative 4.
+
+35
+00:02:46,697 --> 00:02:52,423
+Doing this in general gives a shortcut. For y equals a x squared plus b x plus c,
+
+36
+00:02:52,423 --> 00:02:56,877
+the x-coordinate of the vertex is x equals negative b over 2 a.
+
+37
+00:02:57,227 --> 00:03:02,378
+Then plug that x back into the function to get the y-coordinate. Check it:
+
+38
+00:03:02,378 --> 00:03:08,990
+negative 6 over 2 is negative 3. And y at negative 3 is 9 minus 18 plus 5, which is negative 4.
+
+39
+00:03:08,990 --> 00:03:09,756
+It matches!
+
+40
+00:03:11,656 --> 00:03:15,935
+Two quick facts that come for free. First, the axis of symmetry:
+
+41
+00:03:15,935 --> 00:03:22,220
+the vertical line through the vertex, x equals negative b over 2 a. Here, x equals negative 3.
+
+42
+00:03:22,570 --> 00:03:25,543
+The parabola is a mirror image on either side of that line.
+
+43
+00:03:25,893 --> 00:03:30,522
+Second, the y-intercept, where the graph crosses the y-axis.
+
+44
+00:03:30,522 --> 00:03:36,926
+Set x equal to 0, and every term except c vanishes. So the y-intercept is simply c.
+
+45
+00:03:36,926 --> 00:03:38,546
+Here, the point 0, 5.
+
+46
+00:03:38,896 --> 00:03:47,114
+And by symmetry, the mirror point, also 3 units from the axis but on the left, is negative 6, 5.
+
+47
+00:03:47,114 --> 00:03:50,196
+Check: 36 minus 36 plus 5 is 5. Yes!
+
+48
+00:03:52,096 --> 00:03:58,213
+Now the roots, also called zeros. These are the x-values where the graph touches the x-axis,
+
+49
+00:03:58,213 --> 00:04:01,471
+so we solve a x squared plus b x plus c equals 0.
+
+50
+00:04:01,821 --> 00:04:04,197
+The quadratic formula gives them:
+
+51
+00:04:04,197 --> 00:04:10,676
+x equals negative b, plus or minus the square root of b squared minus 4 a c, all over 2 a.
+
+52
+00:04:11,026 --> 00:04:15,843
+The part under the square root, b squared minus 4 a c, is called the discriminant.
+
+53
+00:04:15,843 --> 00:04:19,603
+It tells us how many real roots there are, before we even solve.
+
+54
+00:04:19,953 --> 00:04:23,178
+Take y equals x squared minus 4 x plus c.
+
+55
+00:04:23,178 --> 00:04:28,921
+With c equal to 3, the discriminant is 16 minus 12, which is 4, positive.
+
+56
+00:04:28,921 --> 00:04:32,933
+The parabola cuts the x-axis twice: two real roots.
+
+57
+00:04:33,283 --> 00:04:37,729
+Slide it up until c is 4. Now the discriminant is exactly zero.
+
+58
+00:04:37,729 --> 00:04:41,117
+The vertex just touches the axis: one real root.
+
+59
+00:04:41,467 --> 00:04:45,896
+Slide further, to c equal to 5, and the discriminant is negative 4.
+
+60
+00:04:45,896 --> 00:04:50,458
+The parabola floats above the axis, never touching it. No real roots.
+
+61
+00:04:52,357 --> 00:04:58,639
+Let's put it all together. Example one: analyze y equals x squared minus 4 x plus 3.
+
+62
+00:04:58,989 --> 00:05:04,958
+Step one: direction. a is 1, positive, so it opens up, with a minimum at the vertex.
+
+63
+00:05:05,308 --> 00:05:11,910
+Step two: the vertex. x equals negative b over 2 a, equals 4 over 2, which is 2.
+
+64
+00:05:11,910 --> 00:05:18,182
+Then y at 2 is 4 minus 8 plus 3, which is negative 1. Vertex: 2, negative 1.
+
+65
+00:05:18,532 --> 00:05:25,634
+That gives vertex form: y equals x minus 2, squared, minus 1. The axis is x equals 2.
+
+66
+00:05:25,984 --> 00:05:29,265
+Step three: the y-intercept is c, which is 3.
+
+67
+00:05:29,615 --> 00:05:36,010
+Step four: roots. The discriminant is 16 minus 12, which is 4. The square root is 2.
+
+68
+00:05:36,010 --> 00:05:42,176
+So x equals 4 plus or minus 2, over 2. Pause, and work out both answers yourself.
+
+69
+00:05:45,176 --> 00:05:52,798
+4 plus 2 over 2 is 3, and 4 minus 2 over 2 is 1. The roots are x equals 1, and x equals 3.
+
+70
+00:05:53,148 --> 00:05:58,128
+Now we sketch it: vertex, intercepts and roots, joined by a smooth U.
+
+71
+00:06:00,528 --> 00:06:07,248
+Example two, this time with a not equal to 1: y equals 2 x squared minus 4 x minus 6.
+
+72
+00:06:07,598 --> 00:06:13,915
+Here a is 2, b is negative 4, and c is negative 6. Since a is positive, it opens up.
+
+73
+00:06:14,265 --> 00:06:19,876
+Vertex: x equals negative b over 2 a, equals 4 over 4, which is 1.
+
+74
+00:06:19,876 --> 00:06:26,677
+Then y is 2, minus 4, minus 6, which is negative 8. The vertex is 1, negative 8.
+
+75
+00:06:27,027 --> 00:06:33,982
+Vertex form: y equals 2, times x minus 1, squared, minus 8. Notice that a stays out in front.
+
+76
+00:06:34,332 --> 00:06:38,226
+The y-intercept is c, negative 6. Now the roots.
+
+77
+00:06:38,226 --> 00:06:45,365
+The discriminant is 16 minus 4 times 2 times negative 6. That's 16 plus 48, which is 64.
+
+78
+00:06:45,715 --> 00:06:52,849
+The square root is 8, so x equals 4 plus or minus 8, over 4. Pause, and find both roots.
+
+79
+00:06:55,849 --> 00:07:00,288
+4 plus 8 over 4 is 3, and 4 minus 8 over 4 is negative 1.
+
+80
+00:07:00,288 --> 00:07:04,181
+The roots are x equals negative 1, and x equals 3.
+
+81
+00:07:04,531 --> 00:07:09,276
+Sketch it: vertex, y-intercept and roots, joined by a smooth U.
+
+82
+00:07:11,676 --> 00:07:13,771
+Time to practice. Problem one:
+
+83
+00:07:13,771 --> 00:07:19,988
+for y equals x squared plus 2 x minus 8, find the vertex, the y-intercept, and the roots.
+
+84
+00:07:19,988 --> 00:07:22,293
+Pause the video and give it a go.
+
+85
+00:07:29,293 --> 00:07:34,950
+Here's the solution. Vertex: x equals negative 2 over 2, which is negative 1.
+
+86
+00:07:34,950 --> 00:07:41,342
+Then y is 1 minus 2 minus 8, which is negative 9. The vertex is negative 1, negative 9.
+
+87
+00:07:41,692 --> 00:07:44,274
+The y-intercept is c, negative 8.
+
+88
+00:07:44,274 --> 00:07:50,768
+For the roots, the discriminant is 4 plus 32, which is 36, so the square root is 6.
+
+89
+00:07:50,768 --> 00:07:56,949
+Then x equals negative 2 plus or minus 6, over 2, which gives 2 and negative 4.
+
+90
+00:07:59,349 --> 00:08:01,065
+Problem two has a twist.
+
+91
+00:08:01,065 --> 00:08:06,214
+Does y equals negative x squared plus 2 x minus 3 ever touch the x-axis?
+
+92
+00:08:06,214 --> 00:08:09,575
+Find the vertex, then decide. Pause and try it.
+
+93
+00:08:16,575 --> 00:08:23,712
+Here a is negative 1, so it opens down. Vertex: x equals negative 2 over negative 2, which is 1.
+
+94
+00:08:23,712 --> 00:08:30,104
+Then y is negative 1 plus 2 minus 3, which is negative 2. The vertex is 1, negative 2.
+
+95
+00:08:30,454 --> 00:08:36,606
+Discriminant: 4 minus 4 times negative 1 times negative 3, which is 4 minus 12, negative 8.
+
+96
+00:08:36,606 --> 00:08:43,029
+Negative, so no real roots. The highest point is below the axis, so the graph never touches it.
+
+97
+00:08:45,429 --> 00:08:50,199
+Last one, a real-world problem. A ball is thrown upward from a balcony,
+
+98
+00:08:50,199 --> 00:08:56,381
+and its height in meters after t seconds is h equals negative 5 t squared plus 20 t plus 25.
+
+99
+00:08:56,381 --> 00:09:01,286
+When is it highest, how high is it, and when does it land? Pause and try.
+
+100
+00:09:09,286 --> 00:09:15,262
+The top is the vertex: t equals negative 20 over negative 10, which is 2 seconds.
+
+101
+00:09:15,262 --> 00:09:19,836
+The height is negative 20 plus 40 plus 25, which is 45 meters.
+
+102
+00:09:20,186 --> 00:09:23,686
+It lands when h is 0. Divide by negative 5:
+
+103
+00:09:23,686 --> 00:09:30,443
+t squared minus 4 t minus 5 equals 0, which factors into t minus 5, times t plus 1.
+
+104
+00:09:30,443 --> 00:09:36,629
+So t is 5, since negative 1 second makes no sense. It lands after 5 seconds.
+
+105
+00:09:39,029 --> 00:09:42,136
+Let's recap with a checklist you can use on any quadratic.
+
+106
+00:09:42,486 --> 00:09:48,209
+One: look at a. Positive opens up, negative opens down. Big means narrow, small means wide.
+
+107
+00:09:48,559 --> 00:09:53,951
+Two: the vertex. x equals negative b over 2 a, then plug in to get y. Three:
+
+108
+00:09:53,951 --> 00:09:57,995
+the axis of symmetry is the vertical line through that x.
+
+109
+00:09:58,345 --> 00:10:00,613
+Four: the y-intercept is c. Five:
+
+110
+00:10:00,613 --> 00:10:07,005
+compute the discriminant, b squared minus 4 a c, and use the quadratic formula for the roots.
+
+111
+00:10:07,355 --> 00:10:13,073
+Six: plot the vertex, the intercepts and the roots, and sketch the smooth curve through them.
+
+112
+00:10:13,423 --> 00:10:17,957
+That's it. Redo the practice problems on your own, and this will become automatic.
+
+113
+00:10:17,957 --> 00:10:19,893
+Thanks for watching, and good luck!
+
