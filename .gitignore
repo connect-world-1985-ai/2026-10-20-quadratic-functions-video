@@ -1,0 +1,10 @@
+venv/
+.venv/
+cache/
+frames/
+__pycache__/
+*.mp4
+*.wav
+*.log
+.env
+.DS_Store
